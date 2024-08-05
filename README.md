@@ -7,3 +7,7 @@ golang back-end; react front-end
 
 - [ ] fix emmet for jsx (see neovim readme)
 - [ ] matching algorithm using ML/AI
+
+### explorations
+
+- payment is to weed out undesirables. Users can always get a refund within 30 days if it's not relevant for them. test

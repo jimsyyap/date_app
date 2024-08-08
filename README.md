@@ -1,7 +1,7 @@
 # date app
 
-"start the conversation" date app
 golang back-end; react front-end
+- see jimnotes/dateapp notes for URS
 
 ## TODO
 
@@ -14,8 +14,3 @@ golang back-end; react front-end
 
 - changed backend/cmd/api to user-recipes, not movies
 
-### explorations
-
-- social media/reddit clone for dating?
-- payment is to weed out undesirables. Users can always get a refund within 30 days if it's not relevant for them. test
-- once completed, mv paymntsystm inside backend folder

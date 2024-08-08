@@ -18,7 +18,7 @@ type config struct {
 	env  string
 	api  string
 	db   struct {
-		dsn string // this for how you connect to db
+		dsn string
 	}
 	stripe struct {
 		secret string

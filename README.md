@@ -7,9 +7,10 @@ golang back-end; react front-end
 
 - [ ] api recipes available for users
 - [ ] api for admin?
-- [ ] set up db (mongodb)
+- [ ] set up db (postgres)
 - [ ] matching algorithm using ML/AI
 - [ ] redifine Recipe struct (backend/cmd/api) to include details for user admin & matching
+- [ ] scrape data from ladders, present info with better interface, and allow users to do something on the site
 
 ### changelog
 

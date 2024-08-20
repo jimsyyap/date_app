@@ -20,7 +20,7 @@ const (
 	port     = 5432
 	user     = "jim"
 	password = "whatsimportantnow"
-	dbname   = "your_database_name"
+	dbname   = "dateapp"
 )
 
 func main() {

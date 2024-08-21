@@ -14,7 +14,7 @@ golang back-end; react front-end
 
 ### changelog
 
-- looking into mongodb over postgres. See terms&conditions for details.
+- looking into mongodb over postgres. See terms&conditions for details. 21aug2024...decided on postgres
 - rm backend/cmd/api
 - changed backend/cmd/api to user-recipes, not movies
 
@@ -25,3 +25,5 @@ golang back-end; react front-end
 - List tables $\dt
 - Describe tables $\d table_name
 - To see what's inside of table: $> SELECT * FROM table_name;
+
+dbname is inventorydb

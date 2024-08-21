@@ -27,3 +27,5 @@ golang back-end; react front-end
 - Describe tables $\d table_name
 - To see what's inside of table: $> SELECT * FROM table_name;
 
+#### vue quickies
+- npm init vue@latest > npm i > run dev

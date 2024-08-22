@@ -12,7 +12,7 @@ import (
 	_ "github.com/lib/pq"
 )
 
-//go:embed frontend/build/*
+//go:embed vue_this/dist/*
 var static embed.FS
 
 const (
@@ -43,7 +43,7 @@ func main() {
 	fmt.Println("Successfully connected to database!")
 
 	// Set up file server for frontend
-	fsys, err := fs.Sub(static, "frontend/build")
+	fsys, err := fs.Sub(static, "vue_this/dist")
 	if err != nil {
 		log.Fatal(err)
 	}

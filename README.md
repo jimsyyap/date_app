@@ -2,7 +2,7 @@
 
 golang back-end; react front-end
 - see jimnotes/dateapp notes for URS
-- want a challenge?
+- why a challenge?
 
 ## TODO
 

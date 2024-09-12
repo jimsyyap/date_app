@@ -1,6 +1,6 @@
 # date app
 
-golang back-end; react front-end
+golang back-end; react front-end, upload friday
 - see jimnotes/dateapp notes for URS
 - why a challenge?
 
@@ -15,7 +15,8 @@ golang back-end; react front-end
 
 ### changelog
 
-- looking into mongodb over postgres. See terms&conditions for details. 21aug2024 ... decided on postgres
+- 12/09/2024 - using vue so root go run main.go opens on port:8080.
+- 21aug2024 ... decided on postgres, not mongodb
 - friend needs an inventory management system. 21aug2024
     - dbname is inventorydb
 

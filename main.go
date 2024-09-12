@@ -44,6 +44,7 @@ func main() {
 
 	// Set up file server for frontend
 	fsys, err := fs.Sub(static, "vue_this/dist")
+	// fsys, err := fs.Sub(static, "frontend/build")
 	if err != nil {
 		log.Fatal(err)
 	}

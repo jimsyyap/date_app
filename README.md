@@ -15,6 +15,7 @@ golang back-end; react front-end, upload friday
 
 ### changelog
 
+- 12/09/2024 - go run main.go served vue frontend connected to postgres
 - 12/09/2024 - using vue so root go run main.go opens on port:8080.
 - 21aug2024 ... decided on postgres, not mongodb
 - friend needs an inventory management system. 21aug2024

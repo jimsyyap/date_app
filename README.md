@@ -1,6 +1,6 @@
 # date app
 
-golang back-end; react front-end, upload friday
+golang back-end; <del>react</del> vue front-end, upload friday
 - see jimnotes/dateapp notes for URS
 - why a challenge?
 
@@ -8,7 +8,8 @@ golang back-end; react front-end, upload friday
 
 - [ ] api recipes available for users
 - [ ] api for admin?
-- [ ] set up db (postgres)
+- [ ] create dashboard for user
+- [ ] create blog platform for admin manage site/app
 - [ ] matching algorithm using ML/AI
 - [ ] redifine Recipe struct (backend/cmd/api) to include details for user admin & matching
 - [ ] scrape data from ladders, present info with better interface, and allow users to do something on the site
